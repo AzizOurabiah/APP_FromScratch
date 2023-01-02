@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "J/kpmDtG9+1jXm1I+PI6If3G4K88c0eoAbj1lSZWAIXsoMC0lYvNIEZCNMoYgapUJIsyO0o5ECQC6aeJSgJXcg==",
+  "dgSpecHash": "DkzZQwN5vvlSJNHzFjXfQiangubsXNAgV1auVJlY9zs3cnTgNZdZtfWKMBh8rvVu++pDUUPXPwtXs/uRQXe+4w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Aziz\\Desktop\\Application_From_Scratch2\\WepAPI\\WepAPI\\WepAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Aziz\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.9\\microsoft.aspnetcore.jsonpatch.3.1.9.nupkg.sha512",
+    "C:\\Users\\Aziz\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.9\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.9.nupkg.sha512",
+    "C:\\Users\\Aziz\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Aziz\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Aziz\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\Aziz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
   ],
   "logs": []

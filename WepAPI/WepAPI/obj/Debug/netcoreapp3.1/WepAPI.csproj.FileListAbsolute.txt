@@ -17,3 +17,8 @@ C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\obj\Debug\netcorea
 C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\obj\Debug\netcoreapp3.1\WepAPI.dll
 C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\obj\Debug\netcoreapp3.1\WepAPI.pdb
 C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\obj\Debug\netcoreapp3.1\WepAPI.genruntimeconfig.cache
+C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\obj\Debug\netcoreapp3.1\WepAPI.csproj.CopyComplete
