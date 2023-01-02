@@ -6,7 +6,6 @@ C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\bin\Debug\netcorea
 C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\bin\Debug\netcoreapp3.1\WepAPI.runtimeconfig.dev.json
 C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\bin\Debug\netcoreapp3.1\WepAPI.dll
 C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\bin\Debug\netcoreapp3.1\WepAPI.pdb
-C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\obj\Debug\netcoreapp3.1\WepAPI.csproj.AssemblyReference.cache
 C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\obj\Debug\netcoreapp3.1\WepAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\obj\Debug\netcoreapp3.1\WepAPI.AssemblyInfoInputs.cache
 C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\obj\Debug\netcoreapp3.1\WepAPI.AssemblyInfo.cs
@@ -22,3 +21,9 @@ C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\bin\Debug\netcorea
 C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\obj\Debug\netcoreapp3.1\WepAPI.csproj.CopyComplete
+C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aziz\Desktop\Application_From_Scratch2\WepAPI\WepAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
