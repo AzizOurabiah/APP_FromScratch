@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WepAPI", "WepAPI\WepAPI.csproj", "{E8CB3879-83F1-4FEB-8B67-87D887DCB78B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8CB3879-83F1-4FEB-8B67-87D887DCB78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8CB3879-83F1-4FEB-8B67-87D887DCB78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8CB3879-83F1-4FEB-8B67-87D887DCB78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8CB3879-83F1-4FEB-8B67-87D887DCB78B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3EA4DDC-737A-426D-8A9E-FB45E9E24065}
+	EndGlobalSection
+EndGlobal

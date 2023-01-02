@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J/kpmDtG9+1jXm1I+PI6If3G4K88c0eoAbj1lSZWAIXsoMC0lYvNIEZCNMoYgapUJIsyO0o5ECQC6aeJSgJXcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aziz\\Desktop\\Application_From_Scratch2\\WepAPI\\WepAPI\\WepAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aziz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
