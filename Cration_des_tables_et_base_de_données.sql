@@ -16,10 +16,11 @@ select * from dbo.Department
 insert into dbo.Department values ('Support')
 insert into dbo.Department values ('IT')
 
+drop table dbo.Employee
 
 create table dbo.Employee(
 EmployeeId int identity(1,1),
-DepartmentName varchar(500),
+EmployeeName varchar(500),
 Department varchar(500),
 DateOfJoining date,
 PhotoFileName varchar(500)
