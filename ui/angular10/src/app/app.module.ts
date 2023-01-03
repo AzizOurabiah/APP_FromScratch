@@ -10,6 +10,8 @@ import { EmployeeComponent } from './employee/employee.component';
 import { ShoeEmpComponent } from './employee/shoe-emp/shoe-emp.component';
 import { AddEditEmpComponent } from './employee/add-edit-emp/add-edit-emp.component';
 import { SharedService } from './shared.service';
+import { HttpClientModule } from '@angular/common/http';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -21,7 +23,13 @@ import { SharedService } from './shared.service';
     ShoeEmpComponent,
     AddEditEmpComponent,
   ],
-  imports: [BrowserModule, AppRoutingModule],
+  imports: [
+    BrowserModule,
+    AppRoutingModule,
+    HttpClientModule,
+    FormsModule,
+    ReactiveFormsModule,
+  ],
   providers: [SharedService],
   bootstrap: [AppComponent],
 })
