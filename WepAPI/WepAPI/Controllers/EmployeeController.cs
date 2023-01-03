@@ -7,7 +7,8 @@ using Microsoft.Extensions.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using WepAPI.Models;
-
+using Microsoft.AspNetCore.Hosting;
+using System.IO;
 
 namespace WepAPI.Controllers
 {
@@ -18,10 +19,13 @@ namespace WepAPI.Controllers
         //On crée une variable de type IConfiguration
         private readonly IConfiguration _configuration;
 
+        private readonly IWebHostEnvironment _env;
+
         //On ajoute l'injection de dépendance
-        public EmployeeController(IConfiguration configuration)
+        public EmployeeController(IConfiguration configuration, IWebHostEnvironment env)
         {
             _configuration = configuration;
+            _env = env;
         }
 
         [HttpGet]
@@ -186,6 +190,29 @@ namespace WepAPI.Controllers
             }
             //On retourne la table des données sous format de JSON
             return new JsonResult("Deleted Successfully !");
+        }
+
+        [Route("SaveFile")]
+        [HttpPost]
+        public JsonResult SaveFile()
+        {
+            try
+            {
+                var httpRequest = Request.Form;
+                var postedFile = httpRequest.Files[0];
+                string filename = postedFile.FileName;
+                var physicalPath = _env.ContentRootPath + "/Photos/" + filename;
+                
+                using(var stream = new FileStream(physicalPath, FileMode.Create))
+                {
+                    postedFile.CopyTo(stream);     
+                }
+                return new JsonResult(filename);
+            }
+            catch (Exception)
+            {
+                return new JsonResult("anonymous.png");
+            }
         }
     }
 }
